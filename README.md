@@ -15,6 +15,7 @@ Follow these steps to get the project up and running on your local machine:
 Clone this repository to your local machine using Git.
 
 git clone https://github.com/yourusername/yourprojectname.git
+
 cd yourprojectname
 
 ====================================================================================
